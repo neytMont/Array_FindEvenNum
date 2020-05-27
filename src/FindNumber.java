@@ -7,7 +7,7 @@ public class FindNumber
 		// TODO Auto-generated method stub
 
 	}
-	
+ 
     public int findNumbers(int[] nums) 
     {
         int isEven = 0;
@@ -17,7 +17,7 @@ public class FindNumber
             
             while(nums[i] != 0)
             {
-                
+                //make this work
             }
         }
 		return isEven;
