@@ -4,15 +4,15 @@ public class FindNumber {
 
 	}
  
-    public int findNumbers(int[] nums) {
-        int isEven = 0;
-        for(int i = 0; i < nums.length; i++){
-            int tenDiv = 0;
+    	public int findNumbers(int[] nums) {
+        	int isEven = 0;
+        	for(int i = 0; i < nums.length; i++){
+            	int tenDiv = 0;
             
-            while(nums[i] != 0){
-                //make this work
-            }
-        }
-	return isEven;
-    }
+            		while(nums[i] != 0){
+                	//make this work
+            		}
+       		}
+		return isEven;
+    	}
 }
